@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Anwar Baig 👋
 
-<!--
-**anwarbaig9/anwarbaig9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate software developer who loves working on open-source projects, creating new technologies, and solving complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I specialize in **Web Development**, **Software Development**.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 📫 How to reach me:anwarbaigmogal9@gmail.com
+
+## 🔧 Technologies & Tools
+- **Frontend:** Html, Css,JavaScript
+- **Backend:** JavaScript, Python, Java
+- **Frameworks:** React, Express,
+- **Databases:** SQL,MySQL,PostgreSQL
+
+
+
+## 🔗 Links
+- [LinkedIn]([https://www.linkedin.com/in/anwarbaig/])
+
